@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Counter-App/static/css/main.be1f841f.chunk.css",
+    "main.js": "/Counter-App/static/js/main.09201fb9.chunk.js",
+    "main.js.map": "/Counter-App/static/js/main.09201fb9.chunk.js.map",
+    "runtime-main.js": "/Counter-App/static/js/runtime-main.2f0243b8.js",
+    "runtime-main.js.map": "/Counter-App/static/js/runtime-main.2f0243b8.js.map",
+    "static/js/2.b2821e01.chunk.js": "/Counter-App/static/js/2.b2821e01.chunk.js",
+    "static/js/2.b2821e01.chunk.js.map": "/Counter-App/static/js/2.b2821e01.chunk.js.map",
+    "index.html": "/Counter-App/index.html",
+    "precache-manifest.0f6b35e719c577c21c90e1d42f0edb87.js": "/Counter-App/precache-manifest.0f6b35e719c577c21c90e1d42f0edb87.js",
+    "service-worker.js": "/Counter-App/service-worker.js",
+    "static/css/main.be1f841f.chunk.css.map": "/Counter-App/static/css/main.be1f841f.chunk.css.map",
+    "static/js/2.b2821e01.chunk.js.LICENSE.txt": "/Counter-App/static/js/2.b2821e01.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Counter-App/static/media/back.aebb57bc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f0243b8.js",
+    "static/js/2.b2821e01.chunk.js",
+    "static/css/main.be1f841f.chunk.css",
+    "static/js/main.09201fb9.chunk.js"
+  ]
+}
